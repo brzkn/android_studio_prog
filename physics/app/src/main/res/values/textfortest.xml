@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="speed_text">Скорость</string>
+    <string name="road_text">Путь</string>
+    <string name="travel_time_text">Время движения</string>
+    <string name="average_speed_text">Средняя скорость</string>
+    <string name="gravity_text">Сила тяжести</string>
+    <string name="weight_text">Вес</string>
+    <string name="mass_text">Масса</string>
+    <string name="density_text">Плотность</string>
+    <string name="moment_of_power_text">Момент силы</string>
+    <string name="lever_equilibrium_text">Условие равновесия рычага</string>
+    <string name="pressure_text">Давление</string>
+    <string name="pressure_force_text">Сила давления</string>
+    <string name="homogeneous_liquid_pressure_text">Давление однородной жидкости</string>
+    <string name="archimedes_law_text">Закон Архимеда</string>
+    <string name="swimming_condition_text">Условие плавания тел</string>
+    <string name="hydraulic_machine_law_text">Закон гидравлической машины</string>
+    <string name="communicating_vessels_text">Закон сообщающихся сосудов</string>
+    <string name="mechanical_work_text">Механическая работа</string>
+    <string name="efficiency_text">Коэффициент полезного действия механизма (КПД)</string>
+    <string name="potential_energy_text">Потенциальная энергия</string>
+    <string name="kinetic_energy_text">Кинетическая энергия</string>
+    <string name="energy_saving_text">Сохранение и превращение механической энергии</string>
+    <string name="power_text">Мощность</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="speed_formula">ʋ = S / t</string>
+    <string name="road_formula">S = ʋ*t</string>
+    <string name="travel_time_formula">t = S / ʋ</string>
+    <string name="average_speed_formula">ʋср = (S1 + S2 + S3 + …) / (t1 + t2 + t3 + …)</string>
+    <string name="gravity_formula">F = m*g</string>
+    <string name="weight_formula">Р = m*g</string>
+    <string name="mass_formula">m = Р / g</string>
+    <string name="density_formula">ρ = m / V</string>
+    <string name="moment_of_power_formula">М = F*l</string>
+    <string name="lever_equilibrium_formula">a) F1 / F2 = l1 / l2\nб) F1*l1 = F2*l2</string>
+    <string name="pressure_formula">p = F / S</string>
+    <string name="pressure_force_formula">F = р*S</string>
+    <string name="homogeneous_liquid_pressure_formula">p = g ρ h</string>
+    <string name="archimedes_law_formula">F = ρ*g*V</string>
+    <string name="swimming_condition_formula">F(B) > F(Т)</string>
+    <string name="hydraulic_machine_law_formula">F1 / F2 = S1 / S2</string>
+    <string name="communicating_vessels_formula">h = const</string>
+    <string name="mechanical_work_formula">А = F*S</string>
+    <string name="efficiency_formula">ɳ = А(П) / А(В) *100%</string>
+    <string name="potential_energy_formula">Е(П) = m*g*h</string>
+    <string name="kinetic_energy_formula">Е(К) = m*ʋ2 / 2</string>
+    <string name="energy_saving_formula">E(П) + E(К) = const</string>
+    <string name="power_formula">ʋN = A / t\nN = F*ʋ</string>
+</resources>

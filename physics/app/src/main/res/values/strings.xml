@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">physics</string>
+    <string name="str_searchbar">Поиск по формулам</string>
+    <string name="str_appName">Физика</string>
+    <string name="str_theory">Теория</string>
+    <string name="str_test">Тест на знание формул</string>
+    <string name="str_table">Таблица</string>
+    <string name="str_exam">Контрольная работа</string>
+    <string name="str_intFact">Интересный факт</string>
+    <string name="str_topic_mehanic">Механика</string>
+    <string name="str_topic">Темы</string>
+    <string name="str_searchbar_topic">Поиск по темам</string>
+    <string name="str_question">Вопрос</string>
+    <string name="str_answer">Ответ</string>
+    <string name="testEnd">Поздравляем, уровень пройден!</string>
+</resources>
